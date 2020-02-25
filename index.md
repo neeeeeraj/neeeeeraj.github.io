@@ -1,33 +1,33 @@
 ## **About Me**
-Hi! I am **Neeraj Kumar** Graduated from Bhagalpur College of Engineering, Bhagalpur in Computer Science and Engineering(CSE) in 2018. My Area of Interest is **Algorithm**, **Mathematics** and **Software Security**.
+Hi! I am **Neeraj Kumar** Graduated from Bhagalpur College of Engineering, Bhagalpur in Computer Science and Engineering(CSE) in 2018. My Area of Interest is **Algorithm**, **Mathematics** and **Software Security**.<br>
 Currently I am Working as Project Engineer for R&D at Centre for Development of Advanced Computing(C-DAC), Hyderabad in the domain of Cyber Security.
 
 ## Education:
 
-**Bhagalpur College of Engineering, Bhagalpur**
-_Computer Science and Engineering_
-_B.Tech(2014-2018)_
+**Bhagalpur College of Engineering, Bhagalpur**<br>
+_Computer Science and Engineering_<br>
+_B.Tech(2014-2018)_<br>
 
-## Work:
+## Work:<br>
 
-**Centre for Development of Advanced Computing(C-DAC), Hyderabad**
-_Project Engineer(from Aug 2019)_
-_Cyber Security_
+**Centre for Development of Advanced Computing(C-DAC), Hyderabad**<br>
+_Project Engineer(from Aug 2019)_<br>
+_Cyber Security_<br><br>
 
 
-##  Skills:
-**Programming Languages:**
-Mostly: _Java, C, Python_
-Others: _Ruby, C++_
-Web Programming/Markup: _HTML, CSS, Java Script, PHP_
+##  Skills:<br>
+**Programming Languages:**<br>
+Mostly: _Java, C, Python_<br>
+Others: _Ruby, C++_<br>
+Web Programming/Markup: _HTML, CSS, Java Script, PHP_<br><br>
 
-**Tools:**
-Debugging: _WinDbg, gdb, Immunity, X64Dbg_
-## Contacts:
+**Tools:**<br>
+Debugging: _WinDbg, gdb, Immunity, X64Dbg_<br>
+## Contacts:<br>
 
-**Email :**_Neerajkr56@gmail.com_
+**Email :**_Neerajkr56@gmail.com_<br>
 
-**GPG :**
+**GPG :**<br>
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF464d0BEACZPm7eVlQOXfTfs2q3Hm1FsSrQe5rsUPaFS9/K2R24x6C2fpe8
@@ -78,10 +78,10 @@ k7sqQPJk3vvCE8YkRSOnhcwBYEy2QOGIXZqvPMSLcyhbtgK3T9cBuL5Y3tPdQa18
 MhanuYqjO58NMzCqoKPKN23HeU0krFCwSEQK4PO1ve30G6/E7KhOT1zwL02IfmZK
 oMLUXDKr7GccHUK+fDYbQmfX0P1X+m7GEjTNK0fdfXdn3VVCzFbf7jvQt50dBuri
 3vGMOjE=
-=yTCW
------END PGP PUBLIC KEY BLOCK-----
+=yTCW<br>
+-----END PGP PUBLIC KEY BLOCK-----<br>
 
 
 
-**FINGERPRINT:**
-_855F ED6F F4FF 8453 458F  2CF4 FB35 095C 4E0A BCB4_
+**FINGERPRINT:**<br>
+_855F ED6F F4FF 8453 458F  2CF4 FB35 095C 4E0A BCB4_<br>
