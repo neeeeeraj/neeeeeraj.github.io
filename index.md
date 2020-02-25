@@ -1,5 +1,5 @@
 ## **About Me**
-Hi! I am **Neeraj Kumar** Graduated from Bhagalpur College of Engineering, Bhagalpur in Computer Science and Engineering(CSE) in 2018. My Area of Interest is **Algorithm**, **Mathematics** and **Software Security**.<br>
+Hi! I am **Neeraj Kumar** Graduated from Bhagalpur College of Engineering, Bhagalpur in Computer Science and Engineering(CSE) in 2018. My Area of Interest is **Algorithm**, **Machine Learning**, **Mathematics** and **Software Security**.<br>
 Currently I am Working as Project Engineer for R&D at Centre for Development of Advanced Computing(C-DAC), Hyderabad in the domain of Cyber Security.
 
 ## Education:
