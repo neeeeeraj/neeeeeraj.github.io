@@ -23,6 +23,7 @@ Web Programming/Markup: _HTML, CSS, Java Script, PHP_<br><br>
 
 **Tools:**<br>
 Debugging: _WinDbg, gdb, Immunity, X64Dbg_<br>
+Reverse Engineering: _IDA Pro, Ghidra, Radare2_<br>
 ## Contacts:<br>
 
 **Email :**_Neerajkr56@gmail.com_<br>
